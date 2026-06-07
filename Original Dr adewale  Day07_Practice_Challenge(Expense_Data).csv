@@ -1,0 +1,501 @@
+﻿Department,Category,Month,Planned Budget ($),Actual Spend ($),Notes,Budget Status
+HR,Travel,October,8741,11391,,Over Budget
+Sales,Supplies,May,9315,2115,Urgent need,On Budget
+Logistics,Supplies,July,5713,2833,Overspend,On Budget
+IT,Travel,September,4220,1659,Urgent need,On Budget
+IT,Supplies,February,8871,9947,Delayed approval,Over Budget
+HR,Travel,August,6152,5026,Delayed approval,On Budget
+Sales,Supplies,November,9906,4649,Delayed approval,On Budget
+Logistics,Travel,October,9187,4834,,On Budget
+Marketing,Training,December,9113,3132,Delayed approval,On Budget
+Sales,Consulting,June,2972,8038,Urgent need,Over Budget
+Logistics,Travel,November,4703,2005,Urgent need,On Budget
+Operations,Consulting,September,2819,2626,Overspend,On Budget
+Operations,Software,July,2687,2320,,On Budget
+Marketing,Consulting,February,3954,11660,,Over Budget
+Logistics,Consulting,January,1888,2168,Refund expected,Over Budget
+HR,Training,August,3935,9025,Delayed approval,Over Budget
+Marketing,Software,January,6457,11471,Refund expected,Over Budget
+HR,Travel,August,3214,7585,,Over Budget
+Marketing,Software,January,6642,1610,Urgent need,On Budget
+IT,Travel,December,4614,5264,Urgent need,Over Budget
+Operations,Supplies,December,9247,6873,Overspend,On Budget
+Logistics,Equipment,April,6442,5190,,On Budget
+IT,Equipment,November,6248,4567,Urgent need,On Budget
+HR,Supplies,January,6425,4047,Overspend,On Budget
+HR,Travel,May,8014,10039,Delayed approval,Over Budget
+Finance,Supplies,January,9917,7431,Refund expected,On Budget
+Marketing,Consulting,December,4233,11353,Delayed approval,Over Budget
+Marketing,Consulting,September,5695,10306,Refund expected,Over Budget
+Finance,Software,July,3664,8157,Urgent need,Over Budget
+Marketing,Supplies,March,1258,11395,Overspend,Over Budget
+IT,Travel,July,9474,6425,Delayed approval,On Budget
+Finance,Travel,March,9453,3473,Delayed approval,On Budget
+Marketing,Supplies,January,5022,7324,Urgent need,Over Budget
+Operations,Events,February,3187,2004,Overspend,On Budget
+Marketing,Equipment,July,5157,9013,Refund expected,Over Budget
+Sales,Consulting,May,6167,10425,Overspend,Over Budget
+Logistics,Software,October,3598,6920,,Over Budget
+Logistics,Events,May,8265,11479,Delayed approval,Over Budget
+HR,Training,February,2556,5661,Urgent need,Over Budget
+Logistics,Equipment,August,6507,6605,Urgent need,Over Budget
+Sales,Training,July,9888,1961,Urgent need,On Budget
+IT,Travel,March,8748,2688,,On Budget
+IT,Consulting,August,1573,11206,Overspend,Over Budget
+Marketing,Equipment,January,7863,4970,Delayed approval,On Budget
+IT,Consulting,February,4248,5503,Delayed approval,Over Budget
+Marketing,Events,August,6213,10730,,Over Budget
+Sales,Events,August,8844,5430,,On Budget
+Marketing,Travel,March,8654,10484,Urgent need,Over Budget
+Marketing,Events,April,3669,5897,Overspend,Over Budget
+Logistics,Training,January,3812,9459,,Over Budget
+Finance,Equipment,January,3672,10813,Overspend,Over Budget
+HR,Consulting,June,4800,4433,Delayed approval,On Budget
+HR,Consulting,October,6962,3401,Delayed approval,On Budget
+HR,Supplies,October,4645,3612,Delayed approval,On Budget
+Operations,Training,September,6405,10615,Refund expected,Over Budget
+Sales,Software,January,2393,11340,Urgent need,Over Budget
+IT,Equipment,October,9374,5960,,On Budget
+Marketing,Supplies,February,5880,1718,Urgent need,On Budget
+Finance,Supplies,May,2744,8892,,Over Budget
+HR,Travel,January,2488,6069,Refund expected,Over Budget
+Marketing,Equipment,November,2612,10393,Refund expected,Over Budget
+Finance,Supplies,November,3303,10146,Refund expected,Over Budget
+HR,Software,October,2330,10226,Overspend,Over Budget
+IT,Travel,April,1538,10463,Refund expected,Over Budget
+Sales,Equipment,March,7388,3895,,On Budget
+IT,Travel,April,4749,5160,Refund expected,Over Budget
+IT,Training,June,6593,3100,Overspend,On Budget
+IT,Consulting,March,7024,6381,Overspend,On Budget
+Sales,Equipment,January,3241,8302,Refund expected,Over Budget
+IT,Equipment,September,3719,1349,Urgent need,On Budget
+IT,Events,July,7702,3259,Urgent need,On Budget
+HR,Travel,December,4486,8723,Refund expected,Over Budget
+IT,Equipment,July,2756,4840,,Over Budget
+Sales,Consulting,January,3915,11085,Delayed approval,Over Budget
+IT,Consulting,June,7072,4524,Refund expected,On Budget
+Logistics,Consulting,December,2200,8995,Urgent need,Over Budget
+Sales,Travel,February,5273,3315,Delayed approval,On Budget
+Finance,Travel,March,1218,8660,Urgent need,Over Budget
+Sales,Supplies,August,2161,1888,Urgent need,On Budget
+Finance,Training,April,8194,4751,Refund expected,On Budget
+Sales,Events,November,9116,5223,,On Budget
+Operations,Travel,March,9595,6007,Urgent need,On Budget
+IT,Consulting,November,1068,1998,,Over Budget
+Operations,Events,February,5069,7674,Delayed approval,Over Budget
+Operations,Supplies,July,9975,9853,Overspend,On Budget
+Finance,Training,November,9193,6411,Delayed approval,On Budget
+IT,Consulting,October,7586,6534,Urgent need,On Budget
+IT,Software,November,3579,4310,Urgent need,Over Budget
+Operations,Training,June,1352,10883,,Over Budget
+Marketing,Software,August,1963,1130,Refund expected,On Budget
+HR,Consulting,November,4160,8610,Delayed approval,Over Budget
+Finance,Software,September,8651,9566,,Over Budget
+IT,Software,September,8153,4754,Delayed approval,On Budget
+Sales,Equipment,September,6888,3991,Urgent need,On Budget
+Sales,Supplies,September,5089,7252,Urgent need,Over Budget
+HR,Training,October,6400,11481,Overspend,Over Budget
+IT,Equipment,October,4348,8465,,Over Budget
+Logistics,Events,November,3871,2944,Refund expected,On Budget
+Logistics,Travel,September,2588,6655,Overspend,Over Budget
+HR,Training,October,5419,10036,Overspend,Over Budget
+HR,Software,April,6484,11321,Overspend,Over Budget
+Finance,Equipment,November,2824,4259,Refund expected,Over Budget
+HR,Consulting,February,3283,2284,Refund expected,On Budget
+IT,Training,November,1385,3043,Refund expected,Over Budget
+IT,Equipment,November,5925,1611,Overspend,On Budget
+Marketing,Travel,January,4713,1374,,On Budget
+HR,Equipment,December,9681,11376,Overspend,Over Budget
+IT,Supplies,February,3056,9707,Refund expected,Over Budget
+Marketing,Supplies,September,2839,831,Urgent need,On Budget
+Operations,Training,December,8899,10544,Delayed approval,Over Budget
+Operations,Events,January,4949,9798,Urgent need,Over Budget
+Logistics,Software,October,6496,6564,Urgent need,Over Budget
+IT,Equipment,September,8018,10019,Overspend,Over Budget
+Finance,Travel,August,1923,3834,,Over Budget
+Operations,Travel,May,1159,9243,Urgent need,Over Budget
+IT,Consulting,May,1952,1646,Delayed approval,On Budget
+Finance,Travel,January,3819,4948,Urgent need,Over Budget
+HR,Supplies,June,2063,6424,Delayed approval,Over Budget
+HR,Software,November,1566,6043,Delayed approval,Over Budget
+Finance,Equipment,April,3485,2227,Delayed approval,On Budget
+Marketing,Software,April,9141,10040,Refund expected,Over Budget
+Logistics,Supplies,July,3619,6866,Overspend,Over Budget
+Logistics,Equipment,February,1302,10929,Refund expected,Over Budget
+Finance,Equipment,February,1816,3942,Urgent need,Over Budget
+Logistics,Supplies,June,2553,3881,Urgent need,Over Budget
+Finance,Travel,March,8243,10125,Urgent need,Over Budget
+HR,Training,January,6346,6459,Delayed approval,Over Budget
+IT,Consulting,June,3615,3735,Delayed approval,Over Budget
+Sales,Software,January,5399,6127,,Over Budget
+Operations,Supplies,April,5806,2415,Overspend,On Budget
+Finance,Supplies,May,1837,7341,Delayed approval,Over Budget
+HR,Consulting,November,1585,8036,Delayed approval,Over Budget
+HR,Consulting,February,4704,1099,Urgent need,On Budget
+Sales,Consulting,April,6386,6028,Delayed approval,On Budget
+Sales,Events,September,7733,4773,Delayed approval,On Budget
+Finance,Software,June,4382,2988,,On Budget
+Operations,Training,May,7398,11208,,Over Budget
+Marketing,Software,March,9867,8693,,On Budget
+HR,Travel,February,8813,8553,Urgent need,On Budget
+Logistics,Software,April,7276,7102,Delayed approval,On Budget
+Logistics,Travel,April,8998,11610,Overspend,Over Budget
+Operations,Supplies,February,1274,1938,Overspend,Over Budget
+HR,Consulting,July,5123,7843,Urgent need,Over Budget
+Logistics,Supplies,July,7064,2139,,On Budget
+Marketing,Equipment,August,8321,7191,Delayed approval,On Budget
+Operations,Events,July,5624,9652,Refund expected,Over Budget
+IT,Software,August,3363,7558,,Over Budget
+Operations,Consulting,February,3860,965,Delayed approval,On Budget
+Logistics,Travel,June,6061,3903,,On Budget
+HR,Equipment,April,8470,5246,,On Budget
+Sales,Events,July,6850,5804,Refund expected,On Budget
+Finance,Training,May,6963,7460,Delayed approval,Over Budget
+Logistics,Events,October,8235,11316,Refund expected,Over Budget
+Operations,Events,January,4770,5145,Overspend,Over Budget
+Sales,Equipment,May,6281,2852,Delayed approval,On Budget
+Finance,Equipment,December,6818,4819,,On Budget
+Sales,Consulting,April,7068,10517,Refund expected,Over Budget
+Logistics,Software,September,8822,8070,Overspend,On Budget
+HR,Training,March,3336,6550,,Over Budget
+Sales,Training,September,3291,9771,Urgent need,Over Budget
+Marketing,Software,November,9356,11851,Delayed approval,Over Budget
+HR,Equipment,April,4391,3112,Urgent need,On Budget
+Logistics,Equipment,October,1408,5018,Overspend,Over Budget
+Finance,Supplies,March,7553,4643,Overspend,On Budget
+Sales,Consulting,February,4348,1086,,On Budget
+Finance,Software,October,3548,3142,Overspend,On Budget
+HR,Equipment,December,8189,8919,Urgent need,Over Budget
+IT,Training,July,3517,8970,,Over Budget
+HR,Equipment,October,9821,7026,,On Budget
+Sales,Software,May,5878,4594,Refund expected,On Budget
+IT,Travel,October,9986,6304,,On Budget
+Logistics,Events,July,1973,6463,Refund expected,Over Budget
+Marketing,Travel,December,5981,10207,Refund expected,Over Budget
+Sales,Equipment,August,9540,1153,,On Budget
+Finance,Events,September,6631,5193,Urgent need,On Budget
+Finance,Supplies,November,3737,814,Delayed approval,On Budget
+Logistics,Supplies,November,4941,7764,Delayed approval,Over Budget
+IT,Supplies,October,7569,6793,Urgent need,On Budget
+HR,Events,July,8282,6572,Delayed approval,On Budget
+Marketing,Training,May,5707,1247,Overspend,On Budget
+IT,Software,July,9793,11068,Delayed approval,Over Budget
+Sales,Consulting,May,5682,5406,Overspend,On Budget
+HR,Software,June,6208,8384,Overspend,Over Budget
+HR,Consulting,August,2120,3045,Overspend,Over Budget
+Finance,Software,May,6061,11421,,Over Budget
+HR,Training,January,7404,7108,Delayed approval,On Budget
+Finance,Events,June,8616,3212,Overspend,On Budget
+Operations,Training,March,7610,7804,Refund expected,Over Budget
+Sales,Equipment,June,8538,9089,Delayed approval,Over Budget
+Logistics,Supplies,May,2560,3967,Overspend,Over Budget
+IT,Events,June,1505,3747,Urgent need,Over Budget
+IT,Equipment,February,8673,7189,Overspend,On Budget
+Operations,Training,August,6222,4080,Urgent need,On Budget
+HR,Training,May,4392,7311,,Over Budget
+Marketing,Travel,May,9217,7989,Urgent need,On Budget
+Finance,Equipment,May,5890,9929,Delayed approval,Over Budget
+IT,Travel,March,5854,8953,,Over Budget
+Finance,Supplies,September,8987,9571,,Over Budget
+Marketing,Consulting,August,5671,4006,Delayed approval,On Budget
+Finance,Travel,July,7645,8793,Delayed approval,Over Budget
+Sales,Consulting,July,4069,6768,Overspend,Over Budget
+Finance,Training,September,9969,4144,Overspend,On Budget
+Marketing,Consulting,January,8571,4484,Refund expected,On Budget
+HR,Consulting,July,2317,3315,Urgent need,Over Budget
+IT,Training,March,6392,4497,Refund expected,On Budget
+Logistics,Travel,July,4259,7720,Urgent need,Over Budget
+Finance,Consulting,September,8774,2623,,On Budget
+Sales,Supplies,May,1581,9313,,Over Budget
+Operations,Travel,August,1411,10859,Overspend,Over Budget
+Marketing,Equipment,September,2510,829,Overspend,On Budget
+Operations,Events,November,3999,5731,Urgent need,Over Budget
+Marketing,Events,April,3437,7101,Delayed approval,Over Budget
+Logistics,Software,April,2037,5070,Refund expected,Over Budget
+Operations,Travel,December,4731,9374,Overspend,Over Budget
+Sales,Equipment,May,4308,10473,Refund expected,Over Budget
+Sales,Travel,January,4627,4041,Refund expected,On Budget
+Finance,Events,March,6862,3032,Overspend,On Budget
+Finance,Equipment,November,7844,4955,Refund expected,On Budget
+IT,Equipment,September,2516,9990,Delayed approval,Over Budget
+Sales,Consulting,September,1092,6186,,Over Budget
+Logistics,Events,March,8416,2902,,On Budget
+Marketing,Travel,December,2566,10511,,Over Budget
+Marketing,Equipment,June,2370,4561,,Over Budget
+Sales,Supplies,July,3482,11562,Delayed approval,Over Budget
+Sales,Equipment,September,3696,6289,Overspend,Over Budget
+Logistics,Software,January,3146,8730,Refund expected,Over Budget
+Sales,Equipment,August,5311,5567,Delayed approval,Over Budget
+Finance,Events,April,6783,2722,Delayed approval,On Budget
+IT,Supplies,August,3051,4973,Overspend,Over Budget
+Operations,Events,September,7063,11541,Overspend,Over Budget
+Marketing,Software,December,1725,6868,,Over Budget
+Finance,Supplies,June,5794,11277,Delayed approval,Over Budget
+Operations,Training,June,9028,7225,Overspend,On Budget
+Operations,Consulting,January,3737,11355,,Over Budget
+Logistics,Consulting,July,8956,4518,Urgent need,On Budget
+HR,Supplies,May,9697,1217,,On Budget
+Operations,Software,December,5137,2621,Refund expected,On Budget
+IT,Software,February,5909,1649,,On Budget
+HR,Training,November,4461,4936,Refund expected,Over Budget
+Marketing,Consulting,November,5403,5025,Refund expected,On Budget
+Sales,Software,September,4296,8838,Delayed approval,Over Budget
+HR,Supplies,April,4887,11039,Refund expected,Over Budget
+Sales,Training,October,7503,7005,Urgent need,On Budget
+HR,Software,June,4565,11868,Overspend,Over Budget
+Logistics,Equipment,December,7684,8033,Overspend,Over Budget
+IT,Software,May,7222,3132,Urgent need,On Budget
+Logistics,Supplies,August,4850,10802,Urgent need,Over Budget
+Operations,Travel,April,9903,7267,,On Budget
+HR,Equipment,November,8977,5891,Urgent need,On Budget
+Sales,Training,October,5480,6988,Refund expected,Over Budget
+Marketing,Equipment,July,5162,2896,Urgent need,On Budget
+Operations,Training,July,1988,2949,Delayed approval,Over Budget
+HR,Equipment,November,8505,6328,Urgent need,On Budget
+Marketing,Travel,June,8322,3280,Overspend,On Budget
+Marketing,Events,October,5889,11407,Urgent need,Over Budget
+HR,Supplies,December,3770,2148,,On Budget
+Sales,Software,March,5971,9057,Urgent need,Over Budget
+Logistics,Training,August,8040,11687,Refund expected,Over Budget
+Marketing,Training,August,6994,1587,Refund expected,On Budget
+Operations,Travel,July,5914,8379,Refund expected,Over Budget
+Marketing,Consulting,December,3620,3030,Urgent need,On Budget
+IT,Events,April,7143,9689,Urgent need,Over Budget
+Finance,Consulting,March,9061,2491,Delayed approval,On Budget
+Finance,Training,January,7272,5363,Overspend,On Budget
+Marketing,Consulting,November,1144,1264,,Over Budget
+Sales,Consulting,May,1574,5204,,Over Budget
+IT,Travel,December,2273,9429,Urgent need,Over Budget
+Operations,Training,October,6168,9646,Delayed approval,Over Budget
+Marketing,Supplies,April,4358,8443,Delayed approval,Over Budget
+Marketing,Training,January,4347,8891,Delayed approval,Over Budget
+HR,Equipment,February,7245,3122,Urgent need,On Budget
+Finance,Software,January,4638,11229,,Over Budget
+HR,Equipment,December,9234,1271,Delayed approval,On Budget
+IT,Equipment,April,5092,6390,Delayed approval,Over Budget
+Finance,Training,March,2595,8706,Urgent need,Over Budget
+Sales,Events,January,4919,9472,,Over Budget
+Finance,Consulting,June,8499,807,Overspend,On Budget
+Logistics,Supplies,September,5447,843,Overspend,On Budget
+Operations,Travel,April,7438,1853,Refund expected,On Budget
+HR,Events,October,7425,5535,,On Budget
+Marketing,Travel,March,2187,2127,Delayed approval,On Budget
+HR,Events,May,7166,3434,Urgent need,On Budget
+Operations,Events,November,4089,7698,Refund expected,Over Budget
+Operations,Travel,December,6958,5651,Overspend,On Budget
+Marketing,Travel,October,4206,2616,,On Budget
+Logistics,Equipment,June,7470,10266,Urgent need,Over Budget
+Logistics,Training,February,3486,9246,Delayed approval,Over Budget
+Logistics,Travel,August,3380,6856,Urgent need,Over Budget
+Finance,Consulting,July,7076,2450,Delayed approval,On Budget
+IT,Supplies,July,7142,6782,Refund expected,On Budget
+Sales,Consulting,December,4696,7403,Overspend,Over Budget
+Finance,Supplies,April,1982,4862,Delayed approval,Over Budget
+Marketing,Training,October,9021,8953,Refund expected,On Budget
+IT,Training,October,9394,3904,Urgent need,On Budget
+Sales,Training,October,5689,5491,Overspend,On Budget
+Operations,Travel,September,9149,6484,,On Budget
+Marketing,Travel,September,3361,8670,Delayed approval,Over Budget
+Sales,Training,July,5020,1318,,On Budget
+IT,Events,May,1954,11251,Urgent need,Over Budget
+IT,Events,August,6913,3025,Overspend,On Budget
+HR,Supplies,May,6517,11194,Urgent need,Over Budget
+Logistics,Training,September,1265,6688,Overspend,Over Budget
+Finance,Consulting,January,8440,1391,Delayed approval,On Budget
+IT,Training,January,4695,5418,Delayed approval,Over Budget
+Sales,Equipment,October,1201,10293,Refund expected,Over Budget
+Finance,Events,April,6342,8292,Delayed approval,Over Budget
+Logistics,Consulting,June,2290,5281,,Over Budget
+Logistics,Travel,June,2009,2316,Urgent need,Over Budget
+HR,Supplies,August,1128,8014,Overspend,Over Budget
+IT,Events,February,6923,11530,Overspend,Over Budget
+HR,Travel,September,5022,4266,Refund expected,On Budget
+Marketing,Training,September,6466,3570,Overspend,On Budget
+Sales,Software,January,4810,5459,Overspend,Over Budget
+Operations,Training,August,7504,1754,Refund expected,On Budget
+Operations,Events,December,5453,10878,Delayed approval,Over Budget
+Marketing,Training,January,5260,6088,Delayed approval,Over Budget
+HR,Travel,July,2631,2807,,Over Budget
+IT,Training,February,9503,9241,Refund expected,On Budget
+Sales,Software,October,4136,4621,Delayed approval,Over Budget
+Marketing,Supplies,September,2551,1844,Urgent need,On Budget
+HR,Supplies,September,8398,5952,Refund expected,On Budget
+Logistics,Events,December,2378,6606,Urgent need,Over Budget
+Sales,Equipment,February,6800,3201,Urgent need,On Budget
+Logistics,Consulting,June,6741,9212,Delayed approval,Over Budget
+Marketing,Consulting,December,4869,1795,Refund expected,On Budget
+Finance,Travel,October,7794,10328,Urgent need,Over Budget
+Operations,Supplies,February,6725,11686,Urgent need,Over Budget
+HR,Consulting,February,7253,5984,Urgent need,On Budget
+HR,Training,October,4402,11794,Refund expected,Over Budget
+HR,Events,July,5653,11818,Urgent need,Over Budget
+HR,Supplies,April,4482,7588,Urgent need,Over Budget
+IT,Consulting,December,7993,10028,Urgent need,Over Budget
+Sales,Software,November,7143,3972,Urgent need,On Budget
+Operations,Events,July,7206,1799,Delayed approval,On Budget
+Marketing,Travel,October,3716,2980,Urgent need,On Budget
+Finance,Supplies,April,1505,9345,Refund expected,Over Budget
+Operations,Software,July,9273,8479,Delayed approval,On Budget
+Sales,Software,February,4778,4775,Overspend,On Budget
+Logistics,Consulting,January,7568,10284,Urgent need,Over Budget
+Operations,Supplies,July,2025,2472,Refund expected,Over Budget
+Finance,Events,July,2779,10511,Overspend,Over Budget
+Finance,Training,December,3275,4780,Delayed approval,Over Budget
+Finance,Equipment,January,8907,9356,Overspend,Over Budget
+Logistics,Consulting,July,1223,6966,Urgent need,Over Budget
+Finance,Events,October,6720,5535,Overspend,On Budget
+Marketing,Travel,January,6063,6709,Delayed approval,Over Budget
+Operations,Consulting,September,8814,5517,Refund expected,On Budget
+Logistics,Events,February,4954,8547,Overspend,Over Budget
+Logistics,Travel,February,6124,3846,Refund expected,On Budget
+HR,Software,March,7464,3007,Delayed approval,On Budget
+Logistics,Consulting,February,1530,1888,Refund expected,Over Budget
+Logistics,Supplies,December,5043,6765,Delayed approval,Over Budget
+Finance,Equipment,April,5212,886,Urgent need,On Budget
+Operations,Events,January,5263,10592,Refund expected,Over Budget
+HR,Training,April,2761,11721,Refund expected,Over Budget
+Logistics,Travel,November,9834,7574,,On Budget
+Marketing,Training,June,5131,1962,Refund expected,On Budget
+Finance,Events,May,8699,4309,Refund expected,On Budget
+IT,Travel,April,6761,10879,Overspend,Over Budget
+IT,Supplies,September,6598,1004,Delayed approval,On Budget
+Marketing,Software,February,9414,10157,Overspend,Over Budget
+Logistics,Travel,November,6959,7117,Urgent need,Over Budget
+HR,Software,June,5843,2609,Delayed approval,On Budget
+Finance,Software,February,9347,2852,Overspend,On Budget
+Marketing,Events,October,1986,5673,Refund expected,Over Budget
+Finance,Events,October,9305,8197,Overspend,On Budget
+Sales,Consulting,February,3396,9280,Overspend,Over Budget
+HR,Software,March,8334,1976,Overspend,On Budget
+Logistics,Software,October,6860,1653,Overspend,On Budget
+Logistics,Training,July,1074,9933,Delayed approval,Over Budget
+Logistics,Equipment,January,9798,5795,,On Budget
+Operations,Supplies,January,2247,1405,Delayed approval,On Budget
+Finance,Software,September,7041,11306,Urgent need,Over Budget
+Logistics,Events,July,4141,4841,Refund expected,Over Budget
+Sales,Equipment,January,5574,3718,,On Budget
+Logistics,Software,January,4501,7447,Overspend,Over Budget
+Sales,Software,February,7364,2439,,On Budget
+IT,Software,June,4512,11544,,Over Budget
+HR,Supplies,February,4578,7320,Urgent need,Over Budget
+Marketing,Software,August,8709,8113,,On Budget
+IT,Training,May,3364,9264,Delayed approval,Over Budget
+Finance,Events,June,2367,5740,Overspend,Over Budget
+Logistics,Equipment,June,3071,1281,Refund expected,On Budget
+HR,Supplies,February,4497,4909,,Over Budget
+Marketing,Equipment,May,1322,6535,Refund expected,Over Budget
+HR,Equipment,February,4410,4320,,On Budget
+Sales,Travel,June,6712,5878,,On Budget
+Finance,Software,September,8485,1677,Refund expected,On Budget
+Operations,Equipment,January,7732,2764,Delayed approval,On Budget
+IT,Travel,August,3159,10256,Refund expected,Over Budget
+IT,Travel,January,4336,10618,,Over Budget
+HR,Training,January,3184,7835,Overspend,Over Budget
+Marketing,Software,September,4494,6591,Urgent need,Over Budget
+Finance,Consulting,July,8721,10508,Overspend,Over Budget
+IT,Consulting,April,9237,4112,Refund expected,On Budget
+Finance,Consulting,May,4808,11555,Refund expected,Over Budget
+Finance,Supplies,May,9600,8404,Delayed approval,On Budget
+Finance,Equipment,July,8701,3244,Delayed approval,On Budget
+Logistics,Consulting,June,1394,10215,Overspend,Over Budget
+IT,Equipment,May,1146,6958,Overspend,Over Budget
+Logistics,Software,July,3150,10703,Overspend,Over Budget
+Finance,Events,August,1765,10599,,Over Budget
+Operations,Travel,July,3131,3321,Overspend,Over Budget
+IT,Travel,June,6008,5421,Delayed approval,On Budget
+Logistics,Software,May,8732,2976,,On Budget
+Sales,Equipment,February,1593,7292,Delayed approval,Over Budget
+Sales,Supplies,December,1834,8696,Refund expected,Over Budget
+Marketing,Travel,September,3112,4368,Delayed approval,Over Budget
+HR,Software,January,3309,8075,Urgent need,Over Budget
+Operations,Travel,November,6369,11050,,Over Budget
+Operations,Events,November,5681,9019,,Over Budget
+IT,Events,December,2843,8371,Overspend,Over Budget
+IT,Supplies,June,8661,5009,Delayed approval,On Budget
+Sales,Events,February,5788,3671,,On Budget
+Operations,Supplies,August,9496,10916,,Over Budget
+Marketing,Consulting,February,5345,3641,,On Budget
+Marketing,Supplies,October,8724,11752,Refund expected,Over Budget
+Finance,Software,November,4820,10915,,Over Budget
+Marketing,Travel,December,1143,11179,,Over Budget
+HR,Software,May,3112,864,Delayed approval,On Budget
+Sales,Consulting,April,9391,5280,Refund expected,On Budget
+Operations,Training,December,4770,10869,Delayed approval,Over Budget
+IT,Training,January,8746,8256,Overspend,On Budget
+HR,Travel,July,1425,9194,Urgent need,Over Budget
+Marketing,Equipment,December,6268,6863,Delayed approval,Over Budget
+Operations,Events,September,2613,2542,Delayed approval,On Budget
+Sales,Consulting,January,9095,4732,Urgent need,On Budget
+IT,Supplies,June,9669,7890,Delayed approval,On Budget
+Sales,Supplies,August,5163,3660,Delayed approval,On Budget
+Finance,Supplies,January,6831,5287,,On Budget
+Finance,Consulting,June,1781,5118,,Over Budget
+Logistics,Events,August,9572,4180,Overspend,On Budget
+Marketing,Supplies,January,9038,11675,Overspend,Over Budget
+Sales,Training,January,6317,8373,Delayed approval,Over Budget
+IT,Consulting,December,7932,11043,Refund expected,Over Budget
+IT,Events,November,9871,6466,,On Budget
+IT,Software,March,2475,4554,Overspend,Over Budget
+Operations,Travel,October,5429,8338,Urgent need,Over Budget
+HR,Travel,October,5589,7488,,Over Budget
+Operations,Travel,March,2318,11633,Delayed approval,Over Budget
+Marketing,Travel,February,9669,6073,Urgent need,On Budget
+Operations,Equipment,May,4450,7714,,Over Budget
+Logistics,Training,March,5464,1674,Overspend,On Budget
+HR,Supplies,September,6383,3376,Delayed approval,On Budget
+Sales,Equipment,June,3171,6967,Refund expected,Over Budget
+Marketing,Events,March,8152,2121,Urgent need,On Budget
+Operations,Events,February,2007,11357,Overspend,Over Budget
+Marketing,Software,September,1084,5008,Delayed approval,Over Budget
+Logistics,Travel,March,3210,5702,Overspend,Over Budget
+Operations,Supplies,September,1501,7355,Urgent need,Over Budget
+Finance,Equipment,September,4246,11701,Refund expected,Over Budget
+Operations,Software,February,8281,10423,Urgent need,Over Budget
+Logistics,Travel,July,3380,11796,Urgent need,Over Budget
+HR,Software,May,7645,1301,Delayed approval,On Budget
+IT,Equipment,November,7758,1404,,On Budget
+Sales,Supplies,November,3058,4818,Urgent need,Over Budget
+HR,Supplies,October,5798,1833,,On Budget
+Finance,Equipment,August,5827,3418,Delayed approval,On Budget
+HR,Software,August,1353,5797,Refund expected,Over Budget
+Finance,Travel,April,7071,4164,Refund expected,On Budget
+Logistics,Consulting,March,6269,2736,Delayed approval,On Budget
+Sales,Training,October,8006,2783,Overspend,On Budget
+Sales,Consulting,June,6914,6681,Refund expected,On Budget
+Sales,Consulting,December,1957,4990,Refund expected,Over Budget
+HR,Equipment,June,6803,1195,Overspend,On Budget
+Marketing,Travel,June,8063,9253,Refund expected,Over Budget
+HR,Training,September,1143,10601,Delayed approval,Over Budget
+Operations,Consulting,December,7332,8355,Delayed approval,Over Budget
+HR,Training,March,7955,1038,Overspend,On Budget
+Logistics,Software,June,7477,2714,,On Budget
+Finance,Supplies,September,1696,6119,Overspend,Over Budget
+IT,Travel,April,6900,8010,Delayed approval,Over Budget
+IT,Supplies,July,6130,11438,Refund expected,Over Budget
+Finance,Training,July,8178,9511,Overspend,Over Budget
+Operations,Events,October,3994,1829,Urgent need,On Budget
+Logistics,Events,April,3737,8005,,Over Budget
+Logistics,Software,October,6107,2584,,On Budget
+Logistics,Training,September,7651,5056,Refund expected,On Budget
+HR,Equipment,July,8276,4762,Refund expected,On Budget
+IT,Travel,August,2705,6795,Overspend,Over Budget
+Operations,Supplies,July,1579,5194,Refund expected,Over Budget
+HR,Consulting,June,7507,8572,Delayed approval,Over Budget
+Finance,Travel,August,1308,5012,Refund expected,Over Budget
+Sales,Equipment,January,5888,4554,,On Budget
+Logistics,Software,December,2573,4130,Refund expected,Over Budget
+Finance,Events,November,9654,5760,Refund expected,On Budget
+Marketing,Consulting,May,8458,4565,Overspend,On Budget
+IT,Supplies,November,6875,3905,,On Budget
+Operations,Travel,January,8199,2334,Overspend,On Budget
+Finance,Software,March,3506,10767,Delayed approval,Over Budget
+Operations,Consulting,June,8504,7247,,On Budget
+Marketing,Supplies,August,4924,2580,Urgent need,On Budget
+Sales,Supplies,July,8293,8071,Delayed approval,On Budget
+IT,Travel,September,2366,8083,Delayed approval,Over Budget
+Operations,Travel,May,1055,7854,Overspend,Over Budget
+Operations,Supplies,May,5784,11503,,Over Budget
+Operations,Software,January,8638,7748,Overspend,On Budget
+HR,Training,March,5719,2390,Urgent need,On Budget
+IT,Software,February,8122,4536,Delayed approval,On Budget
+HR,Equipment,November,9498,2157,,On Budget
